@@ -1,5 +1,5 @@
 {
-    'name': "Real Estate Module Learning",
+    'name': "Real_Estate",
     'version': '1.0',
     'depends': ['base'],
     'author': "Demes Abera",
